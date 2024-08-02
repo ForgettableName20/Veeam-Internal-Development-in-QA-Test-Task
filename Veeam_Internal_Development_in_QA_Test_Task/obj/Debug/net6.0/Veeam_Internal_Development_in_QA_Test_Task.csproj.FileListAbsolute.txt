@@ -1,0 +1,15 @@
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\bin\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.exe
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\bin\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.deps.json
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\bin\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.runtimeconfig.json
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\bin\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.dll
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\bin\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.pdb
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.csproj.AssemblyReference.cache
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.AssemblyInfoInputs.cache
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.AssemblyInfo.cs
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.csproj.CoreCompileInputs.cache
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.dll
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\refint\Veeam_Internal_Development_in_QA_Test_Task.dll
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.pdb
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\Veeam_Internal_Development_in_QA_Test_Task.genruntimeconfig.cache
+D:\Projetos\Tests\Veeam-Internal-Development-in-QA-Test-Task\Veeam_Internal_Development_in_QA_Test_Task\obj\Debug\net6.0\ref\Veeam_Internal_Development_in_QA_Test_Task.dll
