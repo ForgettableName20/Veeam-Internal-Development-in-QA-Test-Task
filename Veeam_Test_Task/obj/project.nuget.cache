@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4npR0m5nu8hgxA33qfFOnBm/fN4j1yJWcUETmZ2OJ50rfYz1aLrCYJneX3zgcCZ8hkAlusfRRVJKPuNLuHckpw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Tests\\Veeam-Internal-Development-in-QA-Test-Task\\Veeam_Test_Task\\Veeam_Test_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonca\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
